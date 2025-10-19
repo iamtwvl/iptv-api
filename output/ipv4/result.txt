@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-19 22:33:00,http://106.53.99.30/tv/cctv13.php
+2025-10-19 22:38:46,http://106.53.99.30/tv/cctv13.php
 
 📺央视频道,#genre#
 CCTV-13,http://106.53.99.30/tv/cctv13.php
@@ -14,16 +14,12 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 ☘️海南频道,#genre#
 
 ☘️山东频道,#genre#
-淄博都市,http://139.129.231.228/rtp/239.21.1.83:5002
+山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 
 🏀体育频道,#genre#
 
@@ -31,18 +27,10 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
-新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
-新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
-新动漫,rtsp://115.153.212.72/PLTV/88888888/224/3221226973/86129004.smil
-新动漫,rtsp://115.153.230.145/PLTV/88888888/224/3221226973/86129004.smil
-新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
-新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
-新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-金鹰卡通,http://101.66.195.101:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 七龙珠,http://iptv.jxpan.vip:18888/aio/huya/11601966
 七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
