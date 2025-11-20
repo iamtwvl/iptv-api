@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 06:21:31,http://bxtv.3a.ink/migu.php?id=cctv2
+2025-11-20 18:23:45,http://bxtv.3a.ink/migu.php?id=cctv2
 
 📺央视频道,#genre#
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
@@ -7,6 +7,7 @@ CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5
 CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
+CCTV-8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
 CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
@@ -26,7 +27,7 @@ CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 
 🏀体育频道,#genre#
 
@@ -36,6 +37,7 @@ CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+金鹰卡通,http://125.42.150.64:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
