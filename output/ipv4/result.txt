@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-20 18:22:18,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+2025-12-21 06:20:42,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
@@ -34,7 +34,7 @@ CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
 山东卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD&auth=666858
 山西卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
 四川卫视,http://116.237.37.244:8888/rtp/233.18.204.225:5140
-四川卫视,http://116.237.37.244:8888/rtp/239.45.3.48:5140
+四川卫视,http://171.83.103.119:9999/rtp/239.69.2.39:11388
 
 ☘️海南频道,#genre#
 
@@ -59,7 +59,6 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 
 🎮游戏频道,#genre#
 游戏竞技,http://ygbh.site/php/bfgd.php?id=142
-游戏竞技,http://ygbh.site/php/bfgd.php?id=296
 海看电竞,http://144.255.32.94:8288/rtp/239.21.1.135:5002
 
 🎵音乐频道,#genre#
