@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-11 07:00:20,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-11 19:06:36,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 
 📺央视频道,#genre#
+CCTV-3,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
@@ -13,6 +14,8 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
+深圳卫视,http://182.37.41.46:8154/tsfile/live/0126_1.m3u8?key=txiptv
+天津卫视,http://182.37.41.46:8154/tsfile/live/0135_1.m3u8?key=txiptv
 
 ☘️海南频道,#genre#
 
